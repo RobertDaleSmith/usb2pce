@@ -1,6 +1,6 @@
 # USB-2-PCE
 
-This repository is a placeholder for where the open source code will live for the USB-2-PCE controller adapter. For now this repo will be used for issue tracking and firmware releases with proper change logs.
+This repository is a placeholder for where the open source code will live for the [USB-2-PCE](https://controlleradapter.com/products/usb-2-pce) controller adapter. For now this repo will be used for issue tracking and firmware releases with proper change logs.
 
 ## Firmware Update Instructions
 
